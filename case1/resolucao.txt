@@ -1,0 +1,11 @@
+Bom dia!
+
+Tudo bem e você?
+
+O problema foi resolvido com sucesso, favor conferir.
+
+O nome do banco de dados do arquivo Wp-Config estava divergente com o da hospedagem do wordpress.
+
+att,
+
+Felipe Baeta.
