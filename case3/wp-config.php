@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'webdev_case3' );
 
 /** MySQL database username */
-define( 'DB_USER', 'webdev_case3' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Ch@11en9e*' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
