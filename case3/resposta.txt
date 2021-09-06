@@ -8,6 +8,8 @@ Para evitar esse tipo de problema deixe WordPress, Plugins e temas sempre atuali
 
 Escolha sempre uma senha que envolva letras maiúsculas, minúsculas, números e caracteres especiais.
 
+Tempo de resolução 20 mim.
+
 att,
 
 Felipe Baeta.

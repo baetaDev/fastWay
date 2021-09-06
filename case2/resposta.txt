@@ -7,6 +7,8 @@ Os arquivos de estilo do site saíram de referência ou não foram carregados au
 Segue em anexo o print do erro ocorrido.
 (error.png que esta na raiz do projeto)
 
+Tempo de resolução 30 mim.
+
 att,
 
 Felipe Baeta.
